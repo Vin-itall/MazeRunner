@@ -1,0 +1,12 @@
+Problem Statement :
+To make a maze runner: write algorithm to find a path from start to finish for following 2D array representing a maze.
+
+0- open space 1- block 2- start 3- finish
+
+Example:
+
+0,1,0,2
+
+0,0,1,0
+
+3,1,1,0
